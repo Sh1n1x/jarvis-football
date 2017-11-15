@@ -1,0 +1,2 @@
+*PROCHAIN*MATCH*==echo "$(jv_pg_fo_next_match)"
+*DERNIER*MATCH*==echo "$(jv_pg_fo_previous_match)"
